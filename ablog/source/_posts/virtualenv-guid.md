@@ -144,4 +144,3 @@ rmvirtualenv [要删除的虚拟环境的名称]
 deactivate
 
 
-
