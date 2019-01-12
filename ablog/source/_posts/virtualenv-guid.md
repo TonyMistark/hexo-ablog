@@ -2,7 +2,7 @@
 layout: post
 title:  "Python虚拟环境：Vitualenv"
 date:   2017-01-01 12:52:40 +0800
-categories: python
+categories: Python
 ---
 
 Virtualenv
