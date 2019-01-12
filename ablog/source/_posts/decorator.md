@@ -2,7 +2,7 @@
 layout: post
 title:  "理解Python装饰器(decorator)以及实践"
 date:   2018-11-26 18:07:40 +0800
-categories: python update
+categories: python
 ---
 
 ### 日志

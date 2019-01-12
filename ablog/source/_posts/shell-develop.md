@@ -2,7 +2,7 @@
 layout: post
 title:  "Shell脚本编程30分钟入门"
 date:   2016-12-17 22:32:40 +0800
-categories: jekyll update
+categories: Linux
 ---
 ## 什么是Shell脚本
 ### 示例
