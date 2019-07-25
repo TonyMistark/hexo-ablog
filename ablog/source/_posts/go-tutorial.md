@@ -4,7 +4,7 @@
 layout: post
 title:  "Go 教程"
 date:   2019-07-25 15:55:40 +0800
-categories: Golang
+categories: Python
 ---
 ```
 #### Go 教程
