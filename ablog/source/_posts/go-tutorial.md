@@ -1,12 +1,10 @@
-```
-
 ---
 layout: post
 title:  "Go 教程"
 date:   2019-07-25 15:55:40 +0800
-categories: Python
+categories: Golang
 ---
-```
+
 #### Go 教程
 Go是一个开源的编程语言，它能让构造简单、可靠且高效的软件变得容易。
 Go是从2007年末由Robert Griesemer, Rob Pik, Ken Thompson主持开发，后来加入了
