@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Nginx 反向代理"
-date:   2019-01-12 22:32:40 +0800
+date:   2019-07-31 22:32:40 +0800
 categories: Nginx
 ---
 
