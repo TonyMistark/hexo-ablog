@@ -10,6 +10,7 @@ mysql: [ERROR] unknown variable 'basedir=/usr/local/Cellar/mysql/5.7.17'.
 
 这里我记了一下默认的配置，一般自己测试就都够用了，保证药到病除。
 `/etc/my.cnf`
+注意：这里需要注意的是mac下叫my.cnf, 在Windows上叫my.ini
 ```
 # Example MySQL config file for medium systems. 
 #  
