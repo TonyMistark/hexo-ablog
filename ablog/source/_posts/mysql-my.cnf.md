@@ -5,7 +5,7 @@ date:   2019-09-18 11:21:40 +0800
 categories: mysql
 ---
 
-最近遇到一个mysql连接问题，执行`mysql -uroot`命令的时候就会报错：
+最近遇到一个mysql连接问题，执行`mysql -uroot`连接数据库命令的时候就会报错：
 mysql: [ERROR] unknown variable 'basedir=/usr/local/Cellar/mysql/5.7.17'.
 
 这里我记了一下默认的配置，一般自己测试就都够用了，保证药到病除。
