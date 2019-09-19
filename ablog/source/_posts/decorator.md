@@ -48,7 +48,6 @@ def test_func(say):
     print("execute test_func and you say: %s" % say)
 
 
-
 if __name__ == "__main__":
     test_func("Hello World!")
 
