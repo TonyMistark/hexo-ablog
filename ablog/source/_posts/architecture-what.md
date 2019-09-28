@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "每个人都应该懂架构之什么是架构？"
-date:   2019-01-12 22:32:40 +0800
+date:   2019-09-28 11:52:40 +0800
 categories: Architecture
 ---
 
