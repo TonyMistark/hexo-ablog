@@ -2,7 +2,7 @@
 layout: post
 title:  "也聊中台"
 date:   2019-10-11 18:08:40 +0800
-categories: 中台
+categories: Architecture
 ---
 
 
