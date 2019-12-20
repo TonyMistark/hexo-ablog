@@ -2,7 +2,7 @@
 layout: post
 title:  "设计模式汇总"
 date:   2019-12-20 11:52:40 +0800
-categories: Architecture
+categories: Design Pattern
 ---
 
 设计模式分三类：创建者模式（五种）、结构模式（七种）、行为模式（十一种）
