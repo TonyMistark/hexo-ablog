@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "django:certificate verify failed solution"
+title:  "django-certificate-verify-failed-solution"
 date:   2020-04-29 15:55:40 +0800
 categories: django
 ---
