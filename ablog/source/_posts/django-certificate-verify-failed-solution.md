@@ -5,6 +5,8 @@ date:   2020-04-29 15:55:40 +0800
 categories: django
 ---
 
+### django:certificate verify failed solution
+
 ##### 错误提示
 ```
 <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate
