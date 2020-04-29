@@ -18,7 +18,7 @@ Mac:
 命令行执行：
 根据自己的python版本cd到对应的目录
 ```
-cd /Applications/Python\ 3.7/
-./Install\ Certificates.command
+$ cd /Applications/Python\ 3.7/
+$ ./Install\ Certificates.command
 ```
 
